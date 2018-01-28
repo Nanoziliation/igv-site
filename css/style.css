@@ -1,0 +1,95 @@
+.light{
+background: eee;
+color: #333;
+}
+
+.dark{
+background: #333;
+color: #eee;
+}
+.card {
+    padding: 2em;
+    position: relative;
+    margin: 0rem 0rem 0rem 0rem;
+}
+
+body {
+    /*background: #3D424F;*/
+    background: #F7F7F7;
+}
+
+#hero {
+    background-size: cover;
+    position: relative;
+    background-image: url(../img/openroad.jpg);
+}
+
+/*.large-header 
+/*	background-image: url('/img/ggb.jpg');
+/*
+*/
+#header {
+    position: fixed;
+    z-index: 1;
+}
+
+#main-title {
+    position: absolute;
+    padding: 0;
+    color: #f9f1e9;
+    text-align: center;
+    top: 33%;
+    width: 100%;
+}
+
+#story {
+    margin: -9em auto 4em;
+    background: #00B47B;
+    
+}
+
+.section-title {
+    text-align: center;
+    font-variant: small-caps;
+}
+
+
+
+#team {
+    background: #eae9e6;
+    margin-top: 0;
+}
+
+#gameplan {
+    background: #fdd120;
+}
+
+#sponsor {
+    background: #4486C5;
+}
+
+.story-container {
+    background: #222A37;
+}
+
+#contact {
+    background: #4486C5;
+}
+
+.section-container {
+  margin: 0 auto;
+  width: 96%;
+}
+
+#story li{
+    list-style: circle;
+    margin-left: 2em;
+}
+.logo {
+    width: 24em;
+}
+
+.projFile {
+    width: 100%;
+    margin: 0 auto;
+}
